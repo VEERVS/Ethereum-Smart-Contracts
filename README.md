@@ -46,10 +46,10 @@ Hello Contract:
 ## Deployment Proof
 
 ### Sepolia Transaction
-![Sepolia Transaction](asset/sepolia-transaction.png)
+![Sepolia Transaction](assets/sepolia-transaction.png)
 
 ### Sepolia Contract Page
-![Sepolia Contract](asset/sepolia-contract.png)
+![Sepolia Contract](assets/sepolia-contract.png)
 
 ### Remix Deployment
-![Remix Deployment](asset/remix-deployed.png)
+![Remix Deployment](assets/remix-deployed.png)
