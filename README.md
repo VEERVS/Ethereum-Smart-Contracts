@@ -1,6 +1,6 @@
 # Ethereum Smart Contracts
 
-This repository contains basic smart contracts written in Solidity and deployed on the Sepolia Testnet.
+This repository contains basic smart contracts written in Solidity and deployed on the Sepolia Testnet. It was my first step in exploring Blockchain.
 
 ## Overview
 
